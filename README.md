@@ -8,7 +8,7 @@ Library  DateTime : http://robotframework.org/robotframework/latest/libraries/Da
 Library  BuiltIn : http://robotframework.org/robotframework/latest/libraries/BuiltIn.html
 * ทำให้ตัวแปรสามารถใช้ได้ใน testcase อื่นๆครับด้วย Keyword : Set Global Variable
 
-Library  Selenium2Library : http://robotframework.org/Selenium2Library/Selenium2Library.html
+Library  SeleniumLibrary : http://robotframework.org/SeleniumLibrary/Selenium2Library.html
 * การเก็บภาพผลเทสด้วย Keyword : Capture Page Screenshot
 
 VDO : https://www.youtube.com/watch?v=RU5AjTmhYMQ&list=PLZ6Bx61eBnB07SRw1zZR5Pad8kheKLftt&index=8
