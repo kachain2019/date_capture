@@ -1,6 +1,6 @@
 *** Settings ***
 Library  DateTime
-Library  Selenium2Library
+Library  SeleniumLibrary
 Library  BuiltIn
 
 *** Test Cases ***
